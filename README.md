@@ -1,10 +1,3 @@
-<html>
- <body>
-    <h1>
-        Welcome to my profile
-    </h1>
-    <p>
-        Hi!
-    </p>
- </body>
-</html>
+## Hey, I'm Guilherme 👋
+
+I'm a student of systems analysis and development at PUC-MG.
