@@ -1,5 +1,9 @@
-## Hey, I'm Guilherme 👋
+# 👋
 
-Constant learner and fascinated by technology!
+## Sou apaixonado pela tecnologia e principalmente por programação, sempre tive bastante facilidade e hoje tenho o prazer de estudar e aprofundar. 
 
-I'm a student of systems analysis and development at PUC-MG.
+### Análise e desenvolvimento de sistemas (ADS) | PUC-MG
+
+
+
+
